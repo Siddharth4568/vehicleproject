@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Sarah Lee",
+    "age": 34,
+    "areaOfWork": "Electrician",
+    "hourlyCharges": 32,
+    "city": "Toronto"
+  },
+  {
+    "name": "John Smith",
+    "age": 41,
+    "areaOfWork": "Carpenter",
+    "hourlyCharges": 30,
+    "city": "Toronto"
+  },
+  {
+    "name": "Emily Davis",
+    "age": 29,
+    "areaOfWork": "Painter",
+    "hourlyCharges": 25,
+    "city": "Toronto"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 52,
+    "areaOfWork": "HVAC Technician",
+    "hourlyCharges": 35,
+    "city": "Toronto"
+  },
+  {
+    "name": "Jessica Wilson",
+    "age": 39,
+    "areaOfWork": "Landscaper",
+    "hourlyCharges": 27,
+    "city": "Toronto"
+  },
+  {
+    "name": "David Martinez",
+    "age": 45,
+    "areaOfWork": "Roofer",
+    "hourlyCharges": 31,
+    "city": "Toronto"
+  },
+  {
+    "name": "Laura Taylor",
+    "age": 37,
+    "areaOfWork": "Plumber",
+    "hourlyCharges": 29,
+    "city": "Toronto"
+  },
+  {
+    "name": "Robert Anderson",
+    "age": 50,
+    "areaOfWork": "General Contractor",
+    "hourlyCharges": 40,
+    "city": "Toronto"
+  },
+  {
+    "name": "Linda Johnson",
+    "age": 43,
+    "areaOfWork": "Tile Setter",
+    "hourlyCharges": 26,
+    "city": "Toronto"
+  },
+  {
+    "name": "James Moore",
+    "age": 38,
+    "areaOfWork": "Mason",
+    "hourlyCharges": 34,
+    "city": "Toronto"
+  },
+  {
+    "name": "Olivia King",
+    "age": 28,
+    "areaOfWork": "Hair Stylist",
+    "hourlyCharges": 45,
+    "city": "Toronto"
+  },
+  {
+    "name": "Sophia Garcia",
+    "age": 32,
+    "areaOfWork": "Makeup Artist",
+    "hourlyCharges": 50,
+    "city": "Toronto"
+  },
+  {
+    "name": "Ethan White",
+    "age": 36,
+    "areaOfWork": "Barber",
+    "hourlyCharges": 40,
+    "city": "Toronto"
+  },
+  {
+    "name": "Mia Martinez",
+    "age": 30,
+    "areaOfWork": "Nail Technician",
+    "hourlyCharges": 35,
+    "city": "Toronto"
+  },
+  {
+    "name": "Liam Rodriguez",
+    "age": 42,
+    "areaOfWork": "Tattoo Artist",
+    "hourlyCharges": 55,
+    "city": "Toronto"
+  }
+]
